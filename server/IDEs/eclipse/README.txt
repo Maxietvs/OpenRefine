@@ -2,7 +2,8 @@
                                  Google Refine Helpers for Eclipse
                                  ---------------------------------
                                  
-                        
+  ***My name is Max von Seeger and I have edited this .txt document!                     
+
   This file contains Eclipse-specific help files that can get simplify your life 
   developing Google Refine with Eclipse (http://www.eclipse.org/).
   
